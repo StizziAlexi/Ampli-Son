@@ -1,0 +1,311 @@
+{
+  "uuid": "ee14cee8936dc045280ebc08843e8791",
+  "path": "Offline/Ampli%20audio",
+  "name": "Ampli audio",
+  "content": "",
+  "created_at": "2024-02-19 08:19:28",
+  "updated_at": "2024-03-06 10:30:42",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "8a271961e42a8c82d20f91be4867f3f0",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e0b0d01b6e0d44dbab9db0ad79a427bc": 8,
+        "24eeb2ceca08480b92b847b6a310acda": 15,
+        "a4eacdcb63554cb08b3b56477817ab57": 4,
+        "b0248eb51e084227889f2cb84eab79c4": 10,
+        "46d8989eede3460ab13fa61a3edbdc2d": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "R_3386P_US",
+          8,
+          "RES-ADJ-TH_3386P",
+          "AIGUE_D,AIGUE_G,BASSE_D,BASSE_G,MEDIUM_D,MEDIUM_G,SON_D,SON_G",
+          {
+            "Supplier Part": "",
+            "Supplier": "LCSC",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "value(Ω)": "10K",
+            "spiceSymbolName": "R_3386P_US",
+            "puuid": "ce6e0cc9b0684cd986edbf86d7075dfd",
+            "uuid": "e0b0d01b6e0d44dbab9db0ad79a427bc"
+          }
+        ],
+        [
+          "20µ",
+          2,
+          "C0603",
+          "C1_G,C10_D",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "10µ",
+          2,
+          "C0603",
+          "C2_G,C9_D",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "3.3µ",
+          2,
+          "C0603",
+          "C3_G,C8_D",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "1µ",
+          2,
+          "C0603",
+          "C4_G,C7_D",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "22µ",
+          2,
+          "C0603",
+          "C5_G,C6_D",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "100m",
+          1,
+          "C0603",
+          "C11_VEE",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "100µ",
+          2,
+          "C0603",
+          "C12_MUTED,C13_MUTEG",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "100n",
+          2,
+          "C0603",
+          "C14_ING,C15_IND",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "800µ",
+          2,
+          "L0603",
+          "L1_G,L4_D",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "L0603_US",
+            "Manufacturer Part": "",
+            "puuid": "1f261cf72cb1479ca32177c31156ede3",
+            "uuid": "a4eacdcb63554cb08b3b56477817ab57"
+          }
+        ],
+        [
+          "200µ",
+          2,
+          "L0603",
+          "L2_G,L3_D",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "L0603_US",
+            "Manufacturer Part": "",
+            "puuid": "1f261cf72cb1479ca32177c31156ede3",
+            "uuid": "a4eacdcb63554cb08b3b56477817ab57"
+          }
+        ],
+        [
+          "47k",
+          2,
+          "R0603",
+          "R1_G,R8_D",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "1k",
+          4,
+          "R0603",
+          "R2_G,R3_G,R6_D,R7_D",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "20k",
+          2,
+          "R0603",
+          "R4_G,R5_D",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "15k",
+          2,
+          "R0603",
+          "R9_MUTED,R10_MUTEG",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "LM4766T",
+          1,
+          "TO-220-15_L20.0-W4.50-P1.27-BL",
+          "U1",
+          {
+            "Supplier Part": "C9410",
+            "Supplier": "LCSC",
+            "Manufacturer": "TI(德州仪器)",
+            "Manufacturer Part": "LM4766T/NOPB",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C9410&%26type=1&ref=editor",
+            "spiceSymbolName": "LM4766T",
+            "puuid": "25336578f2b640f08e006922044c0152",
+            "uuid": "46d8989eede3460ab13fa61a3edbdc2d"
+          }
+        ]
+      ],
+      "updateTime": 1708598234,
+      "createTime": 1708327169,
+      "histories": [],
+      "created_at": "2024-02-19 08:19:29",
+      "updated_at": "2024-02-22 11:37:14"
+    },
+    {
+      "uuid": "76abdf009cd52fff52863d482e785901",
+      "puuid": "ee14cee8936dc045280ebc08843e8791",
+      "title": "PCB_Ampli audio",
+      "filename": "PCB_Ampli audio.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce6e0cc9b0684cd986edbf86d7075dfd": 8,
+        "f8151fdc728a41ebbc304e11d39e5437": 15,
+        "1f261cf72cb1479ca32177c31156ede3": 4,
+        "398691f1f785460098bbe5ee6590333c": 10,
+        "25336578f2b640f08e006922044c0152": 1
+      },
+      "BOM": [],
+      "updateTime": 1708602205,
+      "createTime": 1708598255,
+      "histories": [],
+      "created_at": "2024-02-22 11:37:35",
+      "updated_at": "2024-02-22 12:43:25"
+    }
+  ],
+  "sort": [],
+  "title": "Ampli audio",
+  "foldername": "Ampli audio",
+  "schfilename": "Ampli audio.json",
+  "schfilemtime": 1708598235013
+}
