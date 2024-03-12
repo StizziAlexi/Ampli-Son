@@ -1,4 +1,7 @@
 This is the first version of the PCB.
 
 They are missing the convertissor AC to DC and the regulator to adapt the voltage form 230V to 30v or 24V it depend of the price and 
-how much tension I loses from my conversion.
+how much tension I loses from my conversion. 
+
+But i can buy one from internet, so I don't need to work with high voltage, and that saves me some work, and I don't have any idea 
+how I can develop one.
