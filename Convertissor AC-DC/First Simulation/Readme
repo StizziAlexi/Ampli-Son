@@ -1,3 +1,4 @@
 This is the first simulation I ever done for my convertisor.
 
-The result is good but for hiw i do it it's wrong.
+The result is good but I had some noise when I reach my value of 30V and -30V and it can 
+drop the power of my amplificator.
