@@ -1,5 +1,8 @@
 This is the first version of the PCB.
 
+In this version there is a problem, is missing a GND port for the jack pin. If it's missing we can hear "noises" in our sound, because
+the PCB, speakers are on the same ground but not our signal ("In this case my cellphone").
+
 They are missing the convertissor AC to DC and the regulator to adapt the voltage form 230V to 30v or 24V it depend of the price and 
 how much tension I loses from my conversion. 
 
